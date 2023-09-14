@@ -1,5 +1,15 @@
 # apidocs
 
+```
+codes
+200 = Ok
+400 = Bad Request
+401 = Invalid auth token/died
+403 = Forbidden
+404 = Not Found
+405 = lack of access
+```
+
 <h2>Example hello world</h2>
 
 ```python
