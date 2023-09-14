@@ -3,6 +3,7 @@
 ```
 codes
 200 = Ok
+202 = Accepted
 400 = Bad Request
 401 = Invalid auth token/died
 403 = Forbidden
