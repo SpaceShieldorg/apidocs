@@ -6,5 +6,4 @@ import requests
 import json
 response = requests.get('https://api.spaceshield.org/helloworld', headers={'Authorization': 'Your-token'})
 print(response.status_code)
-print(response.text)
-```
+print(response.text)```
